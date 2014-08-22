@@ -1,7 +1,7 @@
 The [AM1808 SoC](EV3 Processor) has 2 Enhanced High Resolution Pulse Width
 Modulators (eHRPWMs) and 3 Enhanced Capture Modules (eCAPs) that can be configured as PWMs.
 
-The EHRPWMs actually have 2 PWM outputs (A/B) per device for a total of 4 PWMs.
+The EHRPWMs actually have 2 PWM outputs (A/B) per device for a total of 4 EHRPWMs.
 
 ##Usage
 Device | Connection
