@@ -1,5 +1,3 @@
-NOTE: This documentation is for a kernel that has not been officially released. If you want to try it out, grab the latest [test image](https://github.com/dlech/ev3dev/releases).
-
 ## Overview
 
 One of the goals of ev3dev is to support as many sensors as possible. If you have a sensor that does not work, let us know about it.
